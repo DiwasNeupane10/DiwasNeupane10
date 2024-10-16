@@ -10,7 +10,7 @@
 
 - Python and Machine Learning Enthusiast
 - I’m currently working on Text Sumarization using LSA and a Football Statistics Web App. Check it out if interested.(https://github.com/DiwasNeupane10?tab=repositories)
--How to reach neupaned10@gmail.com
+- How to reach neupaned10@gmail.com
 
 ### 🖥 Skills
 
