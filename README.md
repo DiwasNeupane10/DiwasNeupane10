@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diwas-neupane-0bb09b31a/)
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:neupaned10@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://pytopia.ai)](https://pytopia.ai)
+
 [![Github](https://img.shields.io/github/followers/DiwasNeupane10?label=Follow&style=social)](https://github.com/DiwasNeupane10)
 
 - Python and Machine Learning Enthusiast
