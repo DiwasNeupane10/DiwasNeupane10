@@ -1,6 +1,8 @@
 # 💫 About Me:
 Computer Science graduate specializing in AI/ML, with hands-on experience building RAG systems, finetuning<br>open-source LLMs, and developing/deploying Flask-based ML APIs. Strong foundation in Python, data pipelines,<br>and applied data science, with a focus on building practical, production-ready AI solutions.<br>
 
+# Portfolio Website
+[Visit My Portfolio](https://diwasneupane10.github.io/DiwasNeupane_portfolio/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwas-neupane-198909352/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dewasneupane10@gmail.com) 
